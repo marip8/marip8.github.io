@@ -1,3 +1,27 @@
 remote_theme: "jekyll/minima@v2.5.2"
-title: Michael Ripperger
-description: Personal Website
+title: blank
+description: >-
+  Personal website
+keywords: robotics
+
+first_name: Michael
+middle_name: 
+last_name: Ripperger
+
+lang: en
+url: https://marip8.github.io
+
+# Layout
+
+navbar_fixed: true
+footer_fixed: true
+search_enabled: false
+socials_in_search: false
+bib_search: false
+back_to_top: false
+
+# Dimensions
+max_width: 1080px
+
+# Socials
+github_username: marip8
